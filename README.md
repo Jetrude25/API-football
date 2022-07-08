@@ -12,8 +12,11 @@ Express.js - Framework Web rapide sans opinion et minimaliste pour  Node.js
 Pour commencer, nous avons installer les outils nécéssaire comme:
 
 . nvm – Node Version Manager
+
 . npm – Node Package Manager
+
 . Node.js
+
 
 Pour tester notre API
 
