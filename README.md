@@ -25,7 +25,9 @@ Pour tester notre API
 
 
 
-.PUT:https://radiant-plateau-08789.herokuapp.com/api/v1/stats/20
+.PUT:https://radiant-plateau-08789.herokuapp.com/api/v1/stats/45
+<img width="1274" alt="Capture d’écran 2022-07-08 à 11 19 36" src="https://user-images.githubusercontent.com/102301202/177982939-d81e26aa-ab94-4779-b818-ca9dd5b6804f.png">
+
 
 
 
