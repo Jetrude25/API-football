@@ -37,6 +37,5 @@ Pour tester notre API
 
 
 
-DELETE:https://radiant-plateau-08789.herokuapp.com/api/v1/stats/101
-.Supprimer la statistique du joueur 101
+DELETE:https://radiant-plateau-08789.herokuapp.com/api/v1/stats/231
 <img width="1281" alt="Capture d’écran 2022-07-08 à 11 26 54" src="https://user-images.githubusercontent.com/102301202/177987852-23b550df-2efb-4efb-af84-a1449f8d00b3.png">
